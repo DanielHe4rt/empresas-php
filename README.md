@@ -12,3 +12,4 @@ Lista de todas as empresas brasileiras que trabalham com PHP
 | Mobly | | | [Page](https://mobly.com.br/) |
 | Dot.Lib | | [Dot.Lib](https://github.com/dotlib) | |
 | Zamix | | [Sólides](https://zamix.solides.jobs/) | [Page](https://zamix.com.br) |
+| i94 | |  | [Page](https://i94.co) |
