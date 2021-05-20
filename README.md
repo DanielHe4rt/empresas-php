@@ -14,3 +14,4 @@ Lista de todas as empresas brasileiras que trabalham com PHP
 | Vuca Solution | |  | [Page](https://vucasolution.com.br/) | 
 | Zamix | | [Sólides](https://zamix.solides.jobs/) | [Page](https://zamix.com.br) |
 | i94 | |  | [Page](https://i94.co) |
+| Recrutei | | [Vagas](https://empregos.recrutei.com.br) | [Page](https://recrutei.com.br) |
