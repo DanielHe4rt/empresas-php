@@ -10,7 +10,7 @@ Lista de todas as empresas brasileiras que trabalham com PHP
 | Leroy Merlin Bra | [Clique aqui](https://stackshare.io/leroy-merlin-brasil/website) | [Github](https://github.com/leroy-merlin-br/) | |
 | Mobly | | | [Page](https://mobly.com.br/) |
 | PicPay | [Clique aqui](https://stackshare.io/picpay/picpay) | [Github](https://github.com/picpay) | |
-| Teknisa | | | [Page](https://www.teknisa.com/) |
+| Teknisa | | [Clique aqui](https://teknisa.solides.jobs/) | [Page](https://www.teknisa.com/) |
 | Vuca Solution | |  | [Page](https://vucasolution.com.br/) | 
 | Zamix | | [Sólides](https://zamix.solides.jobs/) | [Page](https://zamix.com.br) |
 | i94 | |  | [Page](https://i94.co) |
