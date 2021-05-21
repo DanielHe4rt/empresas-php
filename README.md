@@ -18,3 +18,4 @@ Lista de todas as empresas brasileiras que trabalham com PHP
 | i94 | |  | [Page](https://i94.co) |
 | Vuca Solution | |  | [Page](https://vucasolution.com.br/) | 
 | Zamix | | [Sólides](https://zamix.solides.jobs/) | [Page](https://zamix.com.br) |
+| FHO - Fundação Hermínio Ometto | | [FHO](https://schoolnet.uniararas.br/rh/vagas) | [Page](http://www.fho.edu.br) |
