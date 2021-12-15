@@ -10,6 +10,7 @@ Lista de todas as empresas brasileiras que trabalham com PHP
 | Leroy Merlin Bra | [Clique aqui](https://stackshare.io/leroy-merlin-brasil/website) | [Kenoby](https://jobs.kenoby.com/leroymerlin) | [Page](https://leroymerlin.com.br/) |
 | Live eCommerce | | | [Page](https://liveecommerce.com.br/) |
 | Mobly | | [Kenoby](https://jobs.kenoby.com/mobly) | [Page](https://mobly.com.br/) |
+| Multipedidos | | | [Page](https://www.multipedidos.com.br/) |
 | PicPay | [Clique aqui](https://stackshare.io/picpay/picpay) | [Gupy](https://picpay.gupy.io/) | [Page](https://picpay.com/)|
 | Recrutei | | [Recrutei](https://empregos.recrutei.com.br) | [Page](https://recrutei.com.br) |
 | Serasa | | [Gupy](https://serasa.gupy.io/) | [Page](https://www.serasa.com.br/carreiras/) |
