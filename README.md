@@ -4,6 +4,7 @@ Lista de todas as empresas brasileiras que trabalham com PHP
 | Empresa | Stackshare | Link de vagas (se houver) | Pagina institucional |
 | ------- | -------- | -------- |  -------- |
 | Convenia | | [Gupy](https://convenia-tech.gupy.io/) | [Page](http://convenia.com.br/) |
+| Comunicare Aparelhos Auditivos | | [Jobs](https://jobs.solides.com/COMUNICAREAPARELHOSAUDITIVOS#) | [Page](https://comunicareaparelhosauditivos.com/) |
 | CTIS | | | [Page](https://ctis.com.br/) |
 | Dot.Lib | | [Dot.Lib](https://github.com/dotlib) | |
 | GeekHunter | | [Gupy](https://www.geekhunter.com.br/vagas) | [Page](https://geekhunter.com.br/) |
@@ -19,3 +20,4 @@ Lista de todas as empresas brasileiras que trabalham com PHP
 | i94 | |  | [Page](https://i94.co) |
 | Vuca Solution | |  | [Page](https://vucasolution.com.br/) | 
 | Zamix | | [Sólides](https://zamix.solides.jobs/) | [Page](https://zamix.com.br) |
+
