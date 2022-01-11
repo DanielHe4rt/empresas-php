@@ -1,23 +1,37 @@
-# empresas-php
-Lista de todas as empresas brasileiras que trabalham com PHP
+<!--suppress HtmlDeprecatedAttribute, CheckImageSize -->
+<p align="center">
+    <img width="150" src="doc/images/php-logo.png" align="center" alt="PHP logo" />
+    <h3 align="center">
+        Empresas que utilizam PHP no Brasil
+    </h3>
 
-| Empresa | Stackshare | Link de vagas (se houver) | Pagina institucional |
-| ------- | -------- | -------- |  -------- |
-| Convenia | | [Gupy](https://convenia-tech.gupy.io/) | [Page](http://convenia.com.br/) |
-| Comunicare Aparelhos Auditivos | | [Jobs](https://jobs.solides.com/COMUNICAREAPARELHOSAUDITIVOS#) | [Page](https://comunicareaparelhosauditivos.com/) |
-| CTIS | | | [Page](https://ctis.com.br/) |
-| Dot.Lib | | [Dot.Lib](https://github.com/dotlib) | |
-| GeekHunter | | [Gupy](https://www.geekhunter.com.br/vagas) | [Page](https://geekhunter.com.br/) |
-| Leroy Merlin Bra | [Clique aqui](https://stackshare.io/leroy-merlin-brasil/website) | [Kenoby](https://jobs.kenoby.com/leroymerlin) | [Page](https://leroymerlin.com.br/) |
-| Live eCommerce | | | [Page](https://liveecommerce.com.br/) |
-| Mobly | | [Kenoby](https://jobs.kenoby.com/mobly) | [Page](https://mobly.com.br/) |
-| Multipedidos | | | [Page](https://www.multipedidos.com.br/) |
-| PicPay | [Clique aqui](https://stackshare.io/picpay/picpay) | [Gupy](https://picpay.gupy.io/) | [Page](https://picpay.com/)|
-| Recrutei | | [Recrutei](https://empregos.recrutei.com.br) | [Page](https://recrutei.com.br) |
-| Serasa | | [Gupy](https://serasa.gupy.io/) | [Page](https://www.serasa.com.br/carreiras/) |
-| SoftExpert | [Clique aqui](https://stackshare.io/softexpert-software/softexpert-software) | [Recruiterbox](https://softexpert.recruiterbox.com/) | [Page](https://softexpert.com/) |
-| Teknisa | | [Solides](https://teknisa.solides.jobs/) | [Page](https://www.teknisa.com/) |
-| i94 | |  | [Page](https://i94.co) |
-| Vuca Solution | |  | [Page](https://vucasolution.com.br/) | 
-| Zamix | | [Sólides](https://zamix.solides.jobs/) | [Page](https://zamix.com.br) |
+
+# Introdução
+
+Este repositório tem o intuito de listar o nome de empresas que trabalham com PHP em seus projetos.
+
+# Empresas
+
+| Nome                                                                       | Stackshare                                                                   | Link de vagas                                                         |
+|----------------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| [Convenia](http://convenia.com.br)                                         |                                                                              | [Clique aqui](https://convenia-tech.gupy.io)                          |
+| [Comunicare Aparelhos Auditivos](https://comunicareaparelhosauditivos.com/)|                                                                              | [Clique Aqui](https://jobs.solides.com/COMUNICAREAPARELHOSAUDITIVOS#) |
+| [CTIS](https://ctis.com.br)                                                |                                                                              |                                                                       |
+| [Dot.Lib](https://dotlib.com)                                              |                                                                              | [Clique aqui](https://github.com/dotlib)                              |
+| [GeekHunter](https://www.geekhunter.com.br)                                |                                                                              | [Clique aqui](https://www.geekhunter.com.br/vagas)                    |
+| [Leroy Merlin](https://leroymerlin.com.br)                                 | [Clique aqui](https://stackshare.io/leroy-merlin-brasil/website)             | [Clique aqui](https://jobs.kenoby.com/leroymerlin)                    |
+| [Live eCommerce](https://liveecommerce.com.br)                             |                                                                              |                                                                       |
+| [Mobly](https://mobly.com.br)                                              |                                                                              | [Clique aqui](https://jobs.kenoby.com/mobly)                          |
+| [PicPay](https://picpay.com)                                               | [Clique aqui](https://stackshare.io/picpay/picpay)                           | [Clique aqui](https://picpay.gupy.io)                                 |
+| [Recrutei](https://recrutei.com.br)                                        |                                                                              | [Clique aqui](https://empregos.recrutei.com.br)                       |
+| [Serasa](https://www.serasa.com.br/carreiras)                              |                                                                              | [Clique aqui](https://serasa.gupy.io)                                 |
+| [SoftExpert](https://softexpert.com)                                       | [Clique aqui](https://stackshare.io/softexpert-software/softexpert-software) | [Clique aqui](https://softexpert.recruiterbox.com)                    |
+| [Teknisa](https://www.teknisa.com)                                         |                                                                              | [Clique aqui](https://teknisa.solides.jobs)                           |
+| [i94](https://i94.co)                                                      |                                                                              |                                                                       |
+| [Vuca Solution](https://vucasolution.com.br)                               |                                                                              |                                                                       | 
+| [Zamix](https://zamix.com.br)                                              |                                                                              | [Clique aqui](https://zamix.solides.jobs)                             |
+| [Comunicare Aparelhos Auditivos](https://comunicareaparelhosauditivos.com) |                                                                              | [Clique aqui](https://jobs.solides.com/COMUNICAREAPARELHOSAUDITIVOS#) |
+| [BoaCompra by PagSeguro](https://boacompra.com)                            |                                                                              | [Clique aqui](https://pagseguro.gupy.io)                              |
+| Gazin                                                                      |                                                                              | [Clique aqui](https://gazin.rhgestor.com.br/vagas)                    |
+| [Arquivei](https://arquivei.com.br)                                        | [Clique aqui](https://stackshare.io/arquivei-engineering/arquivei)           | [Clique aqui](https://arquivei.com.br/vagas)                          |
 
