@@ -5,6 +5,7 @@
         Empresas que utilizam PHP no Brasil
     </h3>
 
+
 # Introdução
 
 Este repositório tem o intuito de listar o nome de empresas que trabalham com PHP em seus projetos.
@@ -14,6 +15,7 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | Nome                                                                       | Stackshare                                                                   | Link de vagas                                                         |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | [Convenia](http://convenia.com.br)                                         |                                                                              | [Clique aqui](https://convenia-tech.gupy.io)                          |
+| [Comunicare Aparelhos Auditivos](https://comunicareaparelhosauditivos.com/)|                                                                              | [Clique Aqui](https://jobs.solides.com/COMUNICAREAPARELHOSAUDITIVOS#) |
 | [CTIS](https://ctis.com.br)                                                |                                                                              |                                                                       |
 | [Dot.Lib](https://dotlib.com)                                              |                                                                              | [Clique aqui](https://github.com/dotlib)                              |
 | [GeekHunter](https://www.geekhunter.com.br)                                |                                                                              | [Clique aqui](https://www.geekhunter.com.br/vagas)                    |
@@ -32,3 +34,4 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [BoaCompra by PagSeguro](https://boacompra.com)                            |                                                                              | [Clique aqui](https://pagseguro.gupy.io)                              |
 | Gazin                                                                      |                                                                              | [Clique aqui](https://gazin.rhgestor.com.br/vagas)                    |
 | [Arquivei](https://arquivei.com.br)                                        | [Clique aqui](https://stackshare.io/arquivei-engineering/arquivei)           | [Clique aqui](https://arquivei.com.br/vagas)                          |
+
