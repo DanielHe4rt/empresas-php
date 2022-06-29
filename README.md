@@ -39,3 +39,5 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [GH Branding](https://www.agenciagh.com.br/)                               |                                                                              | [Clique aqui](https://sites.google.com/view/jobsgh/)     |
 | [web.art](https://www.webart.com.br)                                       |                                                                              | [Clique aqui](https://painel.umentor.com.br/inteligente_novos/?con_cod=web16225&pla=5)     |
 | [Elofy](https://elofy.com.br)                                              |                                                                              | [Clique aqui](https://www.linkedin.com/company/elofy/jobs/)           |
+| [Refuturiza](https://refuturiza.com.br)                                    | [Clique aqui](https://stackshare.io/refuturiza/refuturiza)                   | [Clique aqui](https://refuturizaempregos.solides.jobs/)               |
+
