@@ -1,25 +1,5 @@
-<!--suppress HtmlDeprecatedAttribute, CheckImageSize -->
-<style>
-    table {
-        width: 100%;
-    }
-
-    header {
-        text-align: center;
-    }
-
-    img {
-        display: block;
-        margin: 0 auto;
-    }
-
-    span {
-        font-size: 1.5rem;
-    }
-</style>
-
 <header>
-    <img width="150" src="doc/images/php-logo.png" alt="PHP logo" />
+    <img width="150" src="doc/images/php-logo.png" alt="PHP logo" style="display: block; margin: 0 auto;" />
     <span>Empresas que utilizam PHP no Brasil</span>
 </header>
 
