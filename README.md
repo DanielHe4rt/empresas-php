@@ -1,6 +1,6 @@
 <header>
-    <img width="150" src="doc/images/php-logo.png" alt="PHP logo" style="display: block; margin: 0 auto;" />
-    <span>Empresas que utilizam PHP no Brasil</span>
+    <img width="150" src="doc/images/php-logo.png" alt="PHP logo" align="center" />
+    <h3 align="center">Empresas que utilizam PHP no Brasil</h3>
 </header>
 
 # Introdução
