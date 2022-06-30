@@ -16,6 +16,7 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------|
 | [123milhas](https://123milhas.com)                                         |                                                                              | [Clique aqui](https://jobs.solides.com/123milhas)                                      |
 | [Arquivei](https://arquivei.com.br)                                        | [Clique aqui](https://stackshare.io/arquivei-engineering/arquivei)           | [Clique aqui](https://arquivei.com.br/vagas) |
+| [Bartofil](https://www.bartofil.com.br/)                                   |                                                                              | [Clique aqui](https://bartofil.empregare.com/pt-br/vagas)                            |
 | [BoaCompra by PagSeguro](https://boacompra.com)                            |                                                                              | [Clique aqui](https://pagseguro.gupy.io) |
 | [Comunicare Aparelhos Auditivos](https://comunicareaparelhosauditivos.com) |                                                                              | [Clique Aqui](https://jobs.solides.com/COMUNICAREAPARELHOSAUDITIVOS#) |
 | [Convenia](http://convenia.com.br)                                         |                                                                              | [Clique aqui](https://convenia-tech.gupy.io) |
@@ -42,5 +43,4 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [Teknisa](https://www.teknisa.com)                                         |                                                                              | [Clique aqui](https://teknisa.solides.jobs) |
 | [Vuca Solution](https://vucasolution.com.br)                               |                                                                              | 
 | [web.art](https://www.webart.com.br)                                       |                                                                              | [Clique aqui](https://painel.umentor.com.br/inteligente_novos/?con_cod=web16225&pla=5) |
-| [Zamix](https://zamix.com.br)                                              |                                                                              | [Clique aqui](https://zamix.solides.jobs) |
 
