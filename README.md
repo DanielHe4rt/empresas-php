@@ -14,6 +14,7 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 
 | Nome | Stackshare | Link de vagas |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------|
+| [Caju Benefícios](https://www.caju.com.br)                                         |                                                                              | [Clique aqui](https://caju.gupy.io)                                      |
 | [123milhas](https://123milhas.com)                                         |                                                                              | [Clique aqui](https://jobs.solides.com/123milhas)                                      |
 | [Arquivei](https://arquivei.com.br)                                        | [Clique aqui](https://stackshare.io/arquivei-engineering/arquivei)           | [Clique aqui](https://arquivei.com.br/vagas) |
 | [Bartofil](https://www.bartofil.com.br/)                                   |                                                                              | [Clique aqui](https://bartofil.empregare.com/pt-br/vagas)                            |
@@ -44,5 +45,4 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [Vuca Solution](https://vucasolution.com.br)                               |                                                                              |
 | [web.art](https://www.webart.com.br)                                       |                                                                              | [Clique aqui](https://painel.umentor.com.br/inteligente_novos/?con_cod=web16225&pla=5) |
 | [HostDime](https://hostdime.com.br) | | |
-| [ACP Group](https://www.acpgroup.com.br/) | | [Clique aqui](https://acpgroup.gupy.io/) |
 
