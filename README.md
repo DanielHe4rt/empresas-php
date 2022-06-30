@@ -20,7 +20,7 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [BoaCompra by PagSeguro](https://boacompra.com)                            |                                                                              | [Clique aqui](https://pagseguro.gupy.io) |
 | [Comunicare Aparelhos Auditivos](https://comunicareaparelhosauditivos.com) |                                                                              | [Clique Aqui](https://jobs.solides.com/COMUNICAREAPARELHOSAUDITIVOS#) |
 | [Convenia](http://convenia.com.br)                                         |                                                                              | [Clique aqui](https://convenia-tech.gupy.io) |
-| [Croct](https://croct.com/)                                                |                                                                              | [Clique aqui](https://croct.com/careers/) | 
+| [Croct](https://croct.com/)                                                |                                                                              | [Clique aqui](https://croct.com/careers/) |
 | [CTIS](https://ctis.com.br)                                                |                                                                              |                                           |
 | [Dot.Lib](https://dotlib.com)                                              |                                                                              | [Clique aqui](https://github.com/dotlib) |
 | [Ebanx](https://www.ebanx.com/br)                                          | [Clique aqui](https://stackshare.io/ebanx/ebanx)                             | [Clique aqui](https://boards.greenhouse.io/ebanx) |
@@ -41,6 +41,7 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [Serasa](https://www.serasa.com.br/carreiras)                              |                                                                              | [Clique aqui](https://serasa.gupy.io) |
 | [SoftExpert](https://softexpert.com)                                       | [Clique aqui](https://stackshare.io/softexpert-software/softexpert-software) | [Clique aqui](https://softexpert.recruiterbox.com) |
 | [Teknisa](https://www.teknisa.com)                                         |                                                                              | [Clique aqui](https://teknisa.solides.jobs) |
-| [Vuca Solution](https://vucasolution.com.br)                               |                                                                              | 
+| [Vuca Solution](https://vucasolution.com.br)                               |                                                                              |
 | [web.art](https://www.webart.com.br)                                       |                                                                              | [Clique aqui](https://painel.umentor.com.br/inteligente_novos/?con_cod=web16225&pla=5) |
+| [HostDime](https://hostdime.com.br) | | |
 
