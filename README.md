@@ -32,7 +32,6 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [i94](https://i94.co)                                                      |                                                                              |                                                      |
 | [Leroy Merlin](https://leroymerlin.com.br)                                 | [Clique aqui](https://stackshare.io/leroy-merlin-brasil/website)             | [Clique aqui](https://jobs.kenoby.com/leroymerlin)|
 | [Live eCommerce](https://liveecommerce.com.br)                             |                                                                              |                                                   |
-| [Meeg](https://meeg.app) | | |
 | [Mobly](https://mobly.com.br)                                              |                                                                              | [Clique aqui](https://jobs.kenoby.com/mobly) |
 | [Nuvemshop](https://www.nuvemshop.com.br)                                  |                                                                              | [Clique aqui](https://www.nuvemshop.com.br/trabalhe-na-nuvemshop) |
 | [Paylivre](https://www.paylivre.com)                                       |                                                                              |                                                                   |
@@ -44,7 +43,6 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [Teknisa](https://www.teknisa.com)                                         |                                                                              | [Clique aqui](https://teknisa.solides.jobs) |
 | [Vuca Solution](https://vucasolution.com.br)                               |                                                                              |
 | [web.art](https://www.webart.com.br)                                       |                                                                              | [Clique aqui](https://painel.umentor.com.br/inteligente_novos/?con_cod=web16225&pla=5) |
-| [Gamersclub](https://gamersclub.com.br)                                    | [Clique aqui](https://stackshare.io/gamers-club/gamers-club)                 | [Clique aqui](https://gamersclub.gupy.io)|
 | [HostDime](https://hostdime.com.br) | | |
-
+| [ACP Group](https://www.acpgroup.com.br/) | | [Clique aqui](https://acpgroup.gupy.io/) |
 
