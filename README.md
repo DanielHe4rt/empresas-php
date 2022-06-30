@@ -13,13 +13,12 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 
 
 | Nome | Stackshare | Link de vagas |
-|----------------------------------------------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------|                                      
-| [DB1 Global Software](https://www.db1.com.br)                                         |                                                                              | [Clique aqui](https://jobs.kenoby.com/vagas-db1-group)                                      |
-| [MadeiraMadeira](https://www.madeiramadeira.com.br/)                                         |                                                                              | [Clique aqui](https://madeiracarreira.gupy.io/)                                      |
+|----------------------------------------------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------|
 | [123milhas](https://123milhas.com)                                         |                                                                              | [Clique aqui](https://jobs.solides.com/123milhas)                                      |
-| [Arquivei](https://arquivei.com.br)                                        | [Clique aqui](https://stackshare.io/arquivei-engineering/arquivei)           | [Clique aqui](https://arquivei.com.br/vagas) |
+| [Arquivei](https://arquivei.com.br)                                        | [Clique aqui](https://stackshare.io/arquivei-engineering/arquivei)           | [Clique aqui](https://arquivei.com.br/vagas) 
 | [Bartofil](https://www.bartofil.com.br/)                                   |                                                                              | [Clique aqui](https://bartofil.empregare.com/pt-br/vagas)                            |
 | [BoaCompra by PagSeguro](https://boacompra.com)                            |                                                                              | [Clique aqui](https://pagseguro.gupy.io) |
+| [Bio Extratus](https://bioextratus.com.br)                                        |            | [Clique aqui](https://trabalheconosco.bioextratus.com.br) |
 | [Comunicare Aparelhos Auditivos](https://comunicareaparelhosauditivos.com) |                                                                              | [Clique Aqui](https://jobs.solides.com/COMUNICAREAPARELHOSAUDITIVOS#) |
 | [Convenia](http://convenia.com.br)                                         |                                                                              | [Clique aqui](https://convenia-tech.gupy.io) |
 | [Croct](https://croct.com/)                                                |                                                                              | [Clique aqui](https://croct.com/careers/) |
@@ -46,4 +45,5 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [Vuca Solution](https://vucasolution.com.br)                               |                                                                              |
 | [web.art](https://www.webart.com.br)                                       |                                                                              | [Clique aqui](https://painel.umentor.com.br/inteligente_novos/?con_cod=web16225&pla=5) |
 | [HostDime](https://hostdime.com.br) | | |
+| [ACP Group](https://www.acpgroup.com.br/) | | [Clique aqui](https://acpgroup.gupy.io/) |
 
