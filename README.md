@@ -43,5 +43,7 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [Teknisa](https://www.teknisa.com)                                         |                                                                              | [Clique aqui](https://teknisa.solides.jobs) |
 | [Vuca Solution](https://vucasolution.com.br)                               |                                                                              |
 | [web.art](https://www.webart.com.br)                                       |                                                                              | [Clique aqui](https://painel.umentor.com.br/inteligente_novos/?con_cod=web16225&pla=5) |
+| [Gamersclub](https://gamersclub.com.br)                                    | [Clique aqui](https://stackshare.io/gamers-club/gamers-club)                 | [Clique aqui](https://gamersclub.gupy.io)|
 | [HostDime](https://hostdime.com.br) | | |
+
 
