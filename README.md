@@ -17,6 +17,7 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [123milhas](https://123milhas.com)                                         |                                                                              | [Clique aqui](https://jobs.solides.com/123milhas)                                      |
 | [Arquivei](https://arquivei.com.br)                                        | [Clique aqui](https://stackshare.io/arquivei-engineering/arquivei)           | [Clique aqui](https://arquivei.com.br/vagas) 
 | [Bartofil](https://www.bartofil.com.br/)                                   |                                                                              | [Clique aqui](https://bartofil.empregare.com/pt-br/vagas)                            |
+| [Bling](https://bling.com.br) || [Clique aqui](https://vagas-bling.gupy.io/) |
 | [BluePaper](https://bluepaper.io)                                          |                                                                              |                                                                       |
 | [Bio Extratus](https://www.bioextratus.com.br/)                                   |                                                                              | [Clique aqui](https://trabalheconosco.bioextratus.com.br/)                            |
 | [BoaCompra by PagSeguro](https://boacompra.com)                            |                                                                              | [Clique aqui](https://pagseguro.gupy.io) |
