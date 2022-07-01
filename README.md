@@ -53,3 +53,5 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [Geweb](http://www.geweb.com.br)                                           |                                                                              |                                                                   |            
 | [SapientAg2](https://sapientag2.com.br)                                    |                                                                              |                                                                   |
 | [Gran Cursos Online](https://www.grancursosonline.com.br/)                 |                                                                              | [Clique aqui](https://vemsergran.gupy.io/)                        |
+| [Bueno Networks](https://buenonetworks.com.br/)                 |                       | [Clique aqui](https://www.linkedin.com/company/bueno-networks/)                        |
+| [Taskier](https://taskier.io/)                 |                       | [Clique aqui](https://www.linkedin.com/company/apptaskier/)                        |
