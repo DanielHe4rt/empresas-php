@@ -53,6 +53,7 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [ACP Group](https://www.acpgroup.com.br/)                                  |                                                                              | [Clique aqui](https://acpgroup.gupy.io/)                          |
 | [Geweb](http://www.geweb.com.br)                                           |                                                                              |                                                                   |            
 | [SapientAg2](https://sapientag2.com.br)                                    |                                                                              |                                                                   |
+| [SENAI/SC Soluções Digitais](https://sc.senai.br)                          |                                                                              | [Clique aqui](https://crescemosjuntos.com.br/trabalhe-conosco?cidade=11270) |
 | [Gran Cursos Online](https://www.grancursosonline.com.br/)                 |                                                                              | [Clique aqui](https://vemsergran.gupy.io/)                        |
 | [Bueno Networks](https://buenonetworks.com.br/)                 |                       | [Clique aqui](https://www.linkedin.com/company/bueno-networks/)                        |
 | [Taskier](https://taskier.io/)                 |                       | [Clique aqui](https://www.linkedin.com/company/apptaskier/)                        |
