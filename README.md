@@ -25,6 +25,7 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [Comunicare Aparelhos Auditivos](https://comunicareaparelhosauditivos.com) |                                                                              | [Clique Aqui](https://jobs.solides.com/COMUNICAREAPARELHOSAUDITIVOS#) |
 | [Convenia](http://convenia.com.br)                                         |                                                                              | [Clique aqui](https://convenia-tech.gupy.io)                |
 | [Croct](https://croct.com/)                                                |                                                                              | [Clique aqui](https://croct.com/careers/)                   |
+| [CI&T](https://ciandt.com/) | | [Clique aqui](https://ciandt.com/)|
 | [CTIS](https://ctis.com.br)                                                |                                                                              |                                                             |
 | [Dot.Lib](https://dotlib.com)                                              |                                                                              | [Clique aqui](https://github.com/dotlib)                    |
 | [Ebanx](https://www.ebanx.com/br)                                          | [Clique aqui](https://stackshare.io/ebanx/ebanx)                             | [Clique aqui](https://boards.greenhouse.io/ebanx)           |
