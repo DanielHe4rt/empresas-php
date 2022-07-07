@@ -7,12 +7,12 @@
 
 # Introdução
 
-Este repositório tem o intuito de listar o nome de empresas que trabalham com PHP em seus projetos.
+Este repositório tem o intuito de listar o nome de empresas que trabalham com PHP em seus projetos, link para Stackshare, link de acesso às vagas e tipo de contratação e se trabalha com Home Office
 
 # Empresas
 
 
-| Nome | Stackshare | Link de vagas |
+| Nome | Stackshare | Link de vagas | Contratação | Home Office
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------|
 | [123milhas](https://123milhas.com)                                         |                                                                              | [Clique aqui](https://jobs.solides.com/123milhas)           |
 | [Arquivei](https://arquivei.com.br)                                        | [Clique aqui](https://stackshare.io/arquivei-engineering/arquivei)           | [Clique aqui](https://arquivei.com.br/vagas)                |
@@ -39,7 +39,7 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [Live eCommerce](https://liveecommerce.com.br)                             |                                                                              |                                                             |
 | [Mobly](https://mobly.com.br)                                              |                                                                              | [Clique aqui](https://jobs.kenoby.com/mobly)                |
 | [Nuvemshop](https://www.nuvemshop.com.br)                                  |                                                                              | [Clique aqui](https://www.nuvemshop.com.br/trabalhe-na-nuvemshop) |
-| [Oliveira Trust](https://www.oliveiratrust.com.br)                         |                                                                              | [Clique aqui](https://www.linkedin.com/company/oliveiratrust/jobs/) |
+| [Oliveira Trust](https://www.oliveiratrust.com.br)                         |                                                                              | [Clique aqui](https://www.linkedin.com/company/oliveiratrust/jobs/) | CLT | 95 a 100% (depende da cidade) |
 | [Paylivre](https://www.paylivre.com)                                       |                                                                              |                                                                   |
 | [PicPay](https://picpay.com)                                               | [Clique aqui](https://stackshare.io/picpay/picpay)                           | [Clique aqui](https://picpay.gupy.io)                             |
 | [Recrutei](https://recrutei.com.br)                                        |                                                                              | [Clique aqui](https://empregos.recrutei.com.br)                   |
