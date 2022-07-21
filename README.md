@@ -37,6 +37,7 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [i94](https://i94.co)                                                      |                                                                              |                                                             |
 | [Leroy Merlin](https://leroymerlin.com.br)                                 | [Clique aqui](https://stackshare.io/leroy-merlin-brasil/website)             | [Clique aqui](https://jobs.kenoby.com/leroymerlin)          |
 | [Live eCommerce](https://liveecommerce.com.br)                             |                                                                              |                                                             |
+| [Made4it](https://made4it.com.br)                                          |                                                                              |
 | [Mobly](https://mobly.com.br)                                              |                                                                              | [Clique aqui](https://jobs.kenoby.com/mobly)                |
 | [Nuvemshop](https://www.nuvemshop.com.br)                                  |                                                                              | [Clique aqui](https://www.nuvemshop.com.br/trabalhe-na-nuvemshop) |
 | [Paylivre](https://www.paylivre.com)                                       |                                                                              |                                                                   |
