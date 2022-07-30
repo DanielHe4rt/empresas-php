@@ -7,7 +7,7 @@
 
 # Introdução
 
-Este repositório tem o intuito de listar o nome de empresas que trabalham com PHP em seus projetos.
+Este repositório tem o intuito de listar o nome de empresas que trabalham com PHP em seus projetos, link para Stackshare, link de acesso às vagas e tipo de contratação e se trabalha com Home Office
 
 # Empresas
 
@@ -45,6 +45,7 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [Live eCommerce](https://liveecommerce.com.br)                             |                                                                              |                                                                                        |
 | [Mobly](https://mobly.com.br)                                              |                                                                              | [Clique aqui](https://jobs.kenoby.com/mobly)                                           |
 | [Nuvemshop](https://www.nuvemshop.com.br)                                  |                                                                              | [Clique aqui](https://www.nuvemshop.com.br/trabalhe-na-nuvemshop)                      |
+| [Oliveira Trust](https://www.oliveiratrust.com.br)                         |                                                                              | [Clique aqui](https://www.linkedin.com/company/oliveiratrust/jobs/)                    |
 | [Paylivre](https://www.paylivre.com)                                       |                                                                              |                                                                                        |
 | [PicPay](https://picpay.com)                                               | [Clique aqui](https://stackshare.io/picpay/picpay)                           | [Clique aqui](https://picpay.gupy.io)                                                  |
 | [Recrutei](https://recrutei.com.br)                                        |                                                                              | [Clique aqui](https://empregos.recrutei.com.br)                                        |
@@ -58,3 +59,4 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [TolucaStore](https://app.toluca.com.br/)                                  |                                                                              | [Clique aqui](https://linkedin.com/company/tolucastore/)                               |
 | [Vuca Solution](https://vucasolution.com.br)                               |                                                                              |                                                                                        |
 | [web.art](https://www.webart.com.br)                                       |                                                                              | [Clique aqui](https://painel.umentor.com.br/inteligente_novos/?con_cod=web16225&pla=5) |
+
