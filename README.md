@@ -86,3 +86,4 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [Uniasselvi](https://portal.uniasselvi.com.br/)                                        |           | [Clique aqui](https://uniasselvi.gupy.io/)
 | [Vuca Solution](https://vucasolution.com.br)                               |                                                                              |                                                                                        |
 | [web.art](https://www.webart.com.br)                                       |                                                                              | [Clique aqui](https://painel.umentor.com.br/inteligente_novos/?con_cod=web16225&pla=5) |
+| [hubsys.io](https://hubsys.io/) | [Clique aqui](https://stackshare.io/companies/hubsys-ltda) | [Clique aqui](https://www.linkedin.com/company/hubsys-io/jobs/) 
