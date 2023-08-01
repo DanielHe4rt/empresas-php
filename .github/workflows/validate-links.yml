@@ -27,7 +27,7 @@ jobs:
         if: env.lychee_exit_code != 0
         uses: gustavofreze/auto-assign@1.0.0
         with:
-          assignees: '${{ secrets.ASSIGNEES }}'
+          assignees: 'gustavofreze'
           github_token: '${{ secrets.GITHUB_TOKEN }}'
           allow_self_assign: 'true'
           allow_no_assignees: 'true'
