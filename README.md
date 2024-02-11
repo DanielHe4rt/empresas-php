@@ -14,7 +14,6 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 
 | Nome                                                                       | Stackshare                                                                   | Link de vagas                                                                           |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| [123milhas](https://123milhas.com)                                         |                                                                              | [Clique aqui](https://jobs.solides.com/123milhas)                                       |
 | [ACP Group](https://www.acpgroup.com.br)                                   |                                                                              | [Clique aqui](https://acpgroup.gupy.io)                                                 |
 | [Accenture](https://www.accenture.com/br-pt)                               | [Clique aqui](https://stackshare.io/accenture/accenture)                     | [Clique aqui](https://www.accenture.com/br-pt/careers)                                  |
 | [ACP Group](https://www.acpgroup.com.br)                                   |                                                                              | [Clique aqui](https://acpgroup.gupy.io)                                                 |
