@@ -71,3 +71,7 @@ Este repositório tem o intuito de listar o nome de empresas que trabalham com P
 | [Uniasselvi](https://portal.uniasselvi.com.br)                             |                                                                        | [Clique aqui](https://uniasselvi.gupy.io)                                               |
 | [hubsys.io](https://hubsys.io)                                             | [Clique aqui](https://stackshare.io/companies/hubsys-ltda)             | [Clique aqui](https://www.linkedin.com/company/hubsys-io/jobs)                          |
 | [Unifique](https://unifique.com.br)                                        |                                                                        | [Clique aqui](https://vemserunifique.gupy.io)                                           |
+
+## Contribuindo
+
+Siga as [diretrizes de contribuição](CONTRIBUTING.md) para contribuir com o projeto.
